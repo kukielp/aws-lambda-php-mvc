@@ -5,6 +5,6 @@
             Name: <input type="text" name="name"><br>
             <input type="submit">
         </form>
-    
+        <a href="/Prod">Home</a>
     </body>
 </html>

@@ -8,5 +8,6 @@
                 krumo($_rc);
             ?>
         </pre>
+        <a href="/Prod">Home</a>
     </body>
 </html>
