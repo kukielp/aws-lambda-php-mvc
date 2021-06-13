@@ -1,4 +1,4 @@
 composer.phar
-samoconfig.toml
+samconfig.toml
 composer.lock
 code/vendor
