@@ -8,7 +8,8 @@ In Cloud 9 perform the following steps in the terminal:
 
 ```
 sudo yum -y update
-sudo amazon-linux-extras install -y php7.2 php-mbstring
+sudo amazon-linux-extras install -y php7.2 
+sudo yum install -y php-mbstring
 
 git clone https://github.com/kukielp/aws-lambda-php-mvc.git
 
